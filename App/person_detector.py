@@ -32,7 +32,7 @@ from libs.simple import MQTTClient
 
 from libs.log import Log
 
-mac = "c50f1c499346925eaa8c509469e80d5c"
+mac = 'c50f1c499346925eaa8c509469e80d5c'
 #================================== PROGRAMA WATCHDOG ============================================#
 # Função dedicada para desenhar as linhas:
 
